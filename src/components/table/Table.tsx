@@ -19,7 +19,7 @@ const Table = () => {
             <th className=" text-left">TELEFONE</th>
           </tr>
         </thead>
-        <tbody className="bg-white text-black-ntl grid-cols-1 font-medium">
+        <tbody className="bg-white text-black-ntl grid-cols-1 font-[500]">
           {employees.map((employee) => (
             <tr key={employee.id} className="h-12 border-b border-gray-10 hover:bg-gray-00">
               <td className="pl-8 py-1.5 flex items-center">
