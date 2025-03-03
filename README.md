@@ -62,7 +62,7 @@ Siga os passos abaixo para configurar e executar a aplicação localmente:
 
 5. **Acesse a aplicação**:
 
-   Digite o comando **o + enter** ou **crtl + clique** no link exibido para visualizar a aplicação em execução.
+   Use o shortcut do teclado **o + enter** ou **crtl + clique** no link exibido para visualizar a aplicação em execução.
 
 ## Estrutura do Projeto
 
